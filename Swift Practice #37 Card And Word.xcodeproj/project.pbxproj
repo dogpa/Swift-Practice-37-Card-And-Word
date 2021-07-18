@@ -13,6 +13,7 @@
 		5D423C6C26A3F56100BF9832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D423C6A26A3F56100BF9832 /* Main.storyboard */; };
 		5D423C6E26A3F56300BF9832 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D423C6D26A3F56300BF9832 /* Assets.xcassets */; };
 		5D423C7126A3F56300BF9832 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D423C6F26A3F56300BF9832 /* LaunchScreen.storyboard */; };
+		5D423C7926A3F7C400BF9832 /* HanyiSentyDiary.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D423C7826A3F7C400BF9832 /* HanyiSentyDiary.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5D423C6D26A3F56300BF9832 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D423C7026A3F56300BF9832 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D423C7226A3F56300BF9832 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D423C7826A3F7C400BF9832 /* HanyiSentyDiary.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyDiary.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		5D423C6326A3F56100BF9832 /* Swift Practice #37 Card And Word */ = {
 			isa = PBXGroup;
 			children = (
+				5D423C7826A3F7C400BF9832 /* HanyiSentyDiary.ttf */,
 				5D423C6426A3F56100BF9832 /* AppDelegate.swift */,
 				5D423C6626A3F56100BF9832 /* SceneDelegate.swift */,
 				5D423C6826A3F56100BF9832 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D423C7926A3F7C400BF9832 /* HanyiSentyDiary.ttf in Resources */,
 				5D423C7126A3F56300BF9832 /* LaunchScreen.storyboard in Resources */,
 				5D423C6E26A3F56300BF9832 /* Assets.xcassets in Resources */,
 				5D423C6C26A3F56100BF9832 /* Main.storyboard in Resources */,
